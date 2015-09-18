@@ -1,7 +1,7 @@
 {
   "name": "meta-viewport-ios-9",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Viewport meta tag hack for fixing iOS 9's critical WebKit viewport sizing bugs",
   "license": "MIT",
   "repository": "bendrucker/meta-viewport-ios-9",
