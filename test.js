@@ -4,6 +4,6 @@ var test = require('tape')
 var meta = require('./')
 
 test(function (t) {
-  t.equal(meta, 'initial-scale=1.0001, minimum-scale=1.0001, maximum-scale=1.0001, user-scalable=no')
+  t.equal(meta, 'width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no')
   t.end()
 })

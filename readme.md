@@ -15,7 +15,7 @@ $ npm install --save meta-viewport-ios-9
 
 ```js
 var metaViewportIos9 = require('meta-viewport-ios-9')
-//=> initial-scale=1.0001, minimum-scale=1.0001, maximum-scale=1.0001, user-scalable=no
+//=> width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no
 ```
 
 
