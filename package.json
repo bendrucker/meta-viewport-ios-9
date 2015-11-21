@@ -27,7 +27,8 @@
     "standard": "^4.0.0"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "string.js"
   ],
   "dependencies": {
     "meta-string": "~1.0.0"
